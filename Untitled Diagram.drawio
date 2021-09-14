@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T06:19:55.003Z" agent="5.0 (X11)" etag="PqeczdCg3clo6gTUdIyN" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T06:21:55.912Z" agent="5.0 (X11)" etag="NjwNhkvw8OyiLP5EjwjV" version="14.9.6" type="github">
   <diagram id="GdmK5pYut-Oaf8ZcdXea" name="Page-1">
     <mxGraphModel dx="2177" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -281,11 +281,14 @@
         <mxCell id="54k7S0RzcNvcjbPutp9t-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Fuel_tanker_fuel_truck_gas_tank_oil_tanker_water_delivery-128.png" vertex="1" parent="1">
           <mxGeometry x="370" y="-230" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="54k7S0RzcNvcjbPutp9t-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="54k7S0RzcNvcjbPutp9t-3" target="9ImITdyPd6kYSpZHSEgN-1">
+        <mxCell id="54k7S0RzcNvcjbPutp9t-3" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.overcurrent_relay_32_125a;" vertex="1" parent="1">
+          <mxGeometry x="-57" y="20" width="57.22" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="54k7S0RzcNvcjbPutp9t-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="54k7S0RzcNvcjbPutp9t-13" target="2-2FiXPKTVkumBaX6kH2-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="54k7S0RzcNvcjbPutp9t-3" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.overcurrent_relay_32_125a;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="23.25" width="62.78" height="56.5" as="geometry" />
+        <mxCell id="54k7S0RzcNvcjbPutp9t-13" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.overcurrent_relay_32_125a;" vertex="1" parent="1">
+          <mxGeometry x="229" y="20" width="61" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
